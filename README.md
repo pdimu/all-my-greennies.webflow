@@ -2,8 +2,5 @@
 ***
 Site link: https://all-my-greennies.webflow.io/ \
 \
-Webflow Workspace: https://webflow.com/@dimu \
-\
-Webflow Profile: https://webflow.com/@pdimi
-
+Webflow Workspace: https://webflow.com/@dimu
 ---
